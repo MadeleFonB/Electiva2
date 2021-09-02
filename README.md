@@ -19,4 +19,8 @@ npm install express
 npm install ejs 
 
 npm install nodemon 
+
+# Modo de ejecucion
+
+npm run dev
 # Electiva2
